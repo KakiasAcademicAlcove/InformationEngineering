@@ -16,32 +16,36 @@ The components of information engineering include more theoretical fields such a
 
 Join me in this module this semester where we will learn the basic principles and practice of information, information systems and develop the skills to generate, maintain and extract insights from data. Topics we will cover will include:
 
-History and context of data science and information engineering
-Technology landscape
-Parallel databases and query processing, and in-database analytics
-MapReduce and Hadoop
-Key-value stores and NoSQL, examples of NoSQL implementations
-Programming using Python and R
-Topics in information retrieval
-Topics in statistical modelling: statistics review, concepts, design, pitfalls
-Topics in machine learning: supervised learning, optimisation, unsupervised learning, classification, mining, forecasting
-Topics in reasoning with uncertainty
-Topics in visualisation and graph analytics
-Issues in privacy and ethics
-Learning Aims
+
+- History and context of data science and information engineering
+- Technology landscape
+- Parallel databases and query processing, and in-database analytics
+- MapReduce and Hadoop
+- Key-value stores and NoSQL, examples of NoSQL implementations
+- Programming using Python and R
+- Topics in information retrieval
+- Topics in statistical modelling: statistics review, concepts, design, pitfalls
+- Topics in machine learning: supervised learning, optimisation, unsupervised learning, classification, mining, forecasting
+- Topics in reasoning with uncertainty
+- Topics in visualisation and graph analytics
+- Issues in privacy and ethics
+
+## Learning Aims
+
 By the end of this module, you should be able to:
 
-To develop knowledge and understanding of the statistical, algorithmic, and analytical concepts and methods which underpin and embody the core of data science and information engineering
-To develop the skills and intuitions necessary to select and design an information engineering solution to practical data and information problems
-To develop skills to successfully apply statistical, algorithmic, and analytical techniques to implement an information engineering solution using appropriate programming languages and software packages and draw rational conclusions based on the results of the solution
-Learning Outcomes
+1.  develop knowledge and understanding of the statistical, algorithmic, and analytical concepts and methods which underpin and embody the core of data science and information engineering
+2.  develop the skills and intuitions necessary to select and design an information engineering solution to practical data and information problems
+3.  develop skills to successfully apply statistical, algorithmic, and analytical techniques to implement an information engineering solution using appropriate programming languages and software packages and draw rational conclusions based on the results of the solution
+
+## Learning Outcomes
 By the end of this module, you will be able to:
 
-Demonstrate a systematic understanding and knowledge of the statistical, algorithmic and analytical concepts and methods which form the core of data science and information engineering
-Identify the most appropriate techniques and tools for a particular data or information problem, and be critically aware of the limitations on these methods
-Design an information engineering solution to a particular data or information problem from a toolbox of appropriate techniques
-Implement an information engineering solution, including such aspects as data modelling at scale, statistical modelling, programming and visualisation of results
-Draw relevant and rational conclusions from the application of an information engineering solution to a particular data or information problem, and critically appreciate the uncertainties and limitations to the accuracy and/or applicability of these results
+1. Demonstrate a systematic understanding and knowledge of the statistical, algorithmic and analytical concepts and methods which form the core of data science and information engineering
+2. Identify the most appropriate techniques and tools for a particular data or information problem, and be critically aware of the limitations on these methods
+3. Design an information engineering solution to a particular data or information problem from a toolbox of appropriate techniques
+4. Implement an information engineering solution, including such aspects as data modelling at scale, statistical modelling, programming and visualisation of results
+5. Draw relevant and rational conclusions from the application of an information engineering solution to a particular data or information problem, and critically appreciate the uncertainties and limitations to the accuracy and/or applicability of these results
 
 
 
