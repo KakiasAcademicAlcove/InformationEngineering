@@ -50,20 +50,6 @@ By the end of this module, you will be able to:
 4. Implement an information engineering solution, including such aspects as data modelling at scale, statistical modelling, programming and visualisation of results
 5. Draw relevant and rational conclusions from the application of an information engineering solution to a particular data or information problem, and critically appreciate the uncertainties and limitations to the accuracy and/or applicability of these results
 
-
-
-### Module info 
-
-| Module Title  | Cloud Computing for Data Science and AI |
-| ------------  | -------------               |
-| Module Code   | IPLDSAM03                   |
-| Level         | 7 (MSc / postgraduate)      |
-| School        | School of Technology, Business and Arts |
-| Github Repo   | UoS_CloudComputing          |
-
-### Offered at
-<img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
-
 ### Lectures
 
 | Session                     | Topic                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
@@ -104,3 +90,17 @@ By the end of this module, you will be able to:
 ### Lecture 10
 ### Lecture 11
 ### Lecture 12
+
+
+### Administrative Module info 
+
+| Module Title  | Cloud Computing for Data Science and AI |
+| ------------  | -------------               |
+| Module Code   | IPLDSAM03                   |
+| Level         | 7 (MSc / postgraduate)      |
+| School        | School of Technology, Business and Arts |
+| Github Repo   | UoS_CloudComputing          |
+
+### Offered at
+<img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
+
