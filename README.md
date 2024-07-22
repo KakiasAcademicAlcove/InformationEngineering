@@ -8,9 +8,9 @@ Welcome to your third year and the Information Engineering module! In this semes
 
 Industry, commerce and research are being transformed by the potential to capture, store, manipulate, analyse and visualise data and information on a massive scale. Data-driven discovery and prediction are yielding new insights to businesses and academe in every domain, while information retrieval in the form of web search engines are the default mechanism by which most individuals prefer to find information.
 
-Information Engineering is the engineering discipline that deals with the generation, distribution, analysis, and use of information, data, and knowledge in systems.
+<strong> Information Engineering </strong> is the engineering discipline that deals with the generation, distribution, analysis, and use of information, data, and knowledge in systems.
 
-The components of information engineering include more theoretical fields such as machine learning, artificial intelligence and information theory, and more applied fields such as computer vision, natural language processing, bioinformatics, medical image computing, and robotics. Many of these originate from computer science, as well as other branches of engineering such as computer engineering, electrical engineering, and bioengineering.
+The components of information engineering include more theoretical fields such as <strong> machine learning, artificial intelligence and information theory</strong>, and more applied fields such as <strong> computer vision, natural language processing, bioinformatics, medical image computing,</strong> and <strong>robotics</strong>. Many of these originate from computer science, as well as other branches of engineering such as computer engineering, electrical engineering, and bioengineering.
 
 "Big Data" in all its varied forms requires a set of statistical, analytical and programming skills, which are currently in short supply, and likely to remain so for the foreseeable future as this remains a bleeding edge growth area in terms of career opportunities. This module aims to provide students with the core skill set for information engineering, drawing across data science, artificial intelligence, operational research, information retrieval, and related technologies.
 
