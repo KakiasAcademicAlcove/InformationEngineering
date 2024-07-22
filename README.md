@@ -2,6 +2,8 @@
 
 ## Information Engineering (Level 6 - 3rd year UG) (University of Suffolk)
 
+### Welcome 👋
+
 Welcome to your third year and the Information Engineering module! In this semester, we will get to know information systems and information engineering more closely.
 
 ![image](https://github.com/user-attachments/assets/c1a412f4-e0b5-4520-bc99-9f1d63e393c0)
@@ -30,7 +32,7 @@ Join me in this module this semester where we will learn the basic principles an
 - Topics in visualisation and graph analytics
 - Issues in privacy and ethics
 
-## Learning Aims
+### Learning Aims
 
 By the end of this module, you should be able to:
 
@@ -38,7 +40,8 @@ By the end of this module, you should be able to:
 2.  develop the skills and intuitions necessary to select and design an information engineering solution to practical data and information problems
 3.  develop skills to successfully apply statistical, algorithmic, and analytical techniques to implement an information engineering solution using appropriate programming languages and software packages and draw rational conclusions based on the results of the solution
 
-## Learning Outcomes
+### Learning Outcomes
+
 By the end of this module, you will be able to:
 
 1. Demonstrate a systematic understanding and knowledge of the statistical, algorithmic and analytical concepts and methods which form the core of data science and information engineering
@@ -61,30 +64,7 @@ By the end of this module, you will be able to:
 ### Offered at
 <img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
 
-### About this module
-
-The on-demand delivery of compute, database, storage, applications and IT resources through cloud computing has enabled many organisations to deliver innovative solutions without upfront capital investment. Cloud computing ecosystems provide a variety of scalable AI and machine learning solutions. This module provides a comprehensive grounding in cloud computing concepts and solutions, buttressed with extensive practicals to build experience in individual services and architectural designs. As the University of Suffolk is an AWS Academy partner institution, the module will give you an opportunity to acquire AWS certification(s) if you so wish. 
-
-The aims of the module are: 
-
- * to introduce the concept of cloud computing as it applies to Data Science and Artificial intelligence, its advantages and limitations, economics, services and architectures
- * to introduce cloud computing architecture concepts such as client, application, server, Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS), Data as a service (DaaS)
- * to introduce different types of cloud computing services deployment (Public Cloud, Private Cloud, Hybrid Cloud, Community Cloud)
- * to introduce issues around cloud computing security and privacy, replication, reliability; 
- * to introduce different cloud business models and applications for Data Science and AI (Amazon AWS, Microsoft Azure, Google Cloud);
- * to provide hands on practice with actual commercial cloud services - students will be able to design a cloud solution using commercial cloud services
-
-### Learning Outcomes
-
-On successful completion of this module, a student will be able to:
-
-1. Evaluate the technical dimensions of AI and data science architectures and solutions with specific emphasis on cloud approaches
-2. Combine theory, research and practice at forefront of the discipline and use it to guide the development of robust and high quality cloud solutions and architectures
-3. Critically review cloud solutions and tools for AI and data science problems
-4. Demonstrate system-level competencies in assessing, understanding, creating and improving cloud-based architectural solutions
-
-### Module outline
-
+### Lectures
 
 | Session                     | Topic                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
 | ------------                | -------------               |------------------ | --------------  |  --------------                          |-----------------|
