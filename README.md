@@ -52,9 +52,9 @@ By the end of this module, you will be able to:
 
 ### Lectures
 
-| Session                     | Topic                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
-| ------------                | -------------               |------------------ | --------------  |  --------------                          |-----------------|
-| [Lecture 1](#lecture-1)     | Information Engineering Concepts  
+| Session                     | Topic                                                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
+| ------------                | -------------                                               |------------------ | --------------  |  --------------                          |-----------------|
+| [Lecture 1](#lecture-1)     | Information Engineering Concepts, Data Driven Organisations | [Module Overview](https://docs.google.com/presentation/d/1PEsTqN3qrHOFGz9O3lrDCQGYVVghdOFK_ilpa9nYdIU/edit?usp=sharing) <br/> [L1 slides](https://docs.google.com/presentation/d/1slvnd2zbgOXQy5dPKe_Al53F5mFhmLvVGAX74P3y0f0/edit?usp=sharing) | [Activity 1-1: Reflecting on the Importance of an Information Management System](https://docs.google.com/document/d/1WF7sc2IMEV5VkCH7pwurwbSfQOd3a2Seq9ZKV-ngt2Q/edit?usp=sharing)<br/> [Activity 1-2](https://docs.google.com/document/d/151-iyyzh6Rj0JIfTB8ZcXrgHKdJnN6P1aH8lnOZN7wg/edit?usp=sharing) | 
 | [Lecture 2](#lecture-2)     | 
 | [Lecture 3](#lecture-3)     | 
 | [Lecture 4](#lecture-4)     | 
@@ -71,12 +71,50 @@ By the end of this module, you will be able to:
 ### Lecture 1
 **Information Engineering Concepts**
 <details>
-  <summary>Content Outline</summary>
-
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+<p>Welcome to the Information Engineering module 👋.</p>
+<p>An overview of the module aims and objectives is available under Content &gt; Module Information. Please make sure you have a look at these pages before you proceed with the rest of the pages on this module. Make sure you have spotted the <strong>Readings</strong> page and that you have glanced through the other resources mentioned there.</p>
+<p>We start this module by looking at the basics of <strong>information engineering</strong> and <strong>information systems engineering</strong>, including the history and the context of data science and information engineering and how it is being shaped by and has shaped the era of AI (and more recently Generative AI).</p>
+<p>We will also be looking at what information, data and information engineering is,&nbsp;when they were first discussed in the computing world and their importance for businesses and society. We will also be&nbsp;discussing different ways information is understood across different fields of databases that you might come across (relational, non-relational, graph etc). Finally, we will be&nbsp;working in groups to discuss related issues and exchange ideas and experiences.</p>
+<p>In the practical/lab, we will be refreshing our memory of programming basics and trying out some examples of information pipelines using open datasets and Python code in kaggle.com.</p>
+<p>For the <em><strong>assessment</strong></em> on this module you will need to work on a fictional scenario of an organisation presented to you where you will need to identify and propose ways it could build or improve its data engineering architecture and data analytics pipelines. Assessment information will be made available under Content &gt; Module Assessment after Lecture 2. Don’t worry about what that will involve just yet. We will get there!</p>
+<p>You should have everything you need to make a start on the assessment after Lecture 6 content is covered.</p>
+<p><strong>Practicals/Labs</strong></p>
+<p>All lectures are followed by an AWS Academy (or other cloud provider) training set of material - please make sure you gain access to AWS Academy training material (I will be providing details during class about how I will be adding you to these), and follow through the assigned module material (videos, labs and knowledge checks) to reinforce your knowledge of the contents covered.</p>
+<p><strong>Readings for this Lecture</strong></p>
+<p>Detailed information for today's key concepts can be found in the following readings:</p>
+<ul>
+<li>📘 Reading 1-1: <a rel="noopener" href="https://uos.on.worldcat.org/oclc/1351987584">Chapter 1 of Reis and Housley (2022) </a></li>
+<li>📘 Reading 1-2: <a rel="noopener" href="https://uos.on.worldcat.org/oclc/1351987584" target="_self">Chapter 2 of Reis and Housley (2022)</a></li>
+<li>📘 Reading 1-3: Chapter 1 of <a rel="noopener" href="https://uos.on.worldcat.org/oclc/320905871">Heijden (2009)</a></li>
+<li>📘 Video Resource 1-4: What is information theory?</li>
+</ul>
+<div class="row">
+<div class="col-xs-12 col-sm-8"><iframe width="560" height="315" src="https://www.youtube.com/embed/d9alWZRzBWk?wmode=opaque&amp;rel=0" title="YouTube video player?wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<ul>
+<li>📘 Video Resource 1-5: IBM Cloud - what is data science?</li>
+</ul>
+<div class="col-xs-12 col-sm-8"><iframe width="560" height="315" src="https://www.youtube.com/embed/RBSUwFGa6Fk?wmode=opaque&amp;rel=0" title="YouTube video player?wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="col-xs-12 col-sm-8">
+<ul>
+<li>📘 Video Resource 1-6: The Science of Information - a lecture by Professor Richard Harvey (23/10/2018)</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-8"><iframe width="560" height="315" src="https://www.youtube.com/embed/-_2qQpNH8BQ?wmode=opaque&amp;rel=0" title="YouTube video player?wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<p><strong>Case studies:</strong></p>
+<ul>
+<li>Stripe: <a rel="noopener" href="https://www.youtube.com/watch?v=O67TvnvKgic&amp;list=PL2yQDdvlhXf_22xqaqPb13gDRDOq2Sjg4&amp;index=9">AWS re:Invent 2022 - Modernize your data archive with Amazon S3, featuring Stripe (STG205) (youtube.com)</a>&nbsp;<strong></strong></li>
+<li><a rel="noopener" href="https://www.youtube.com/watch?v=vDDJ9eWaUt0">AWS re:Invent 2022 - Achieving your modern data architecture (ANT205-R)</a></li>
+</ul>
+<p><strong>Labs:</strong></p>
+<ul>
+<li>Lab 1.1: Querying data using Athena (AWS Data Engineering &gt; Module 04)</li>
+</ul>
+<h3>Lecture 01 - recording (part 1)</h3>
+<p><iframe src="https://uos.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d9bcd8f7-6344-493d-b90b-b1fc008edfe7&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all" height="405" width="100%" style="border: 1px solid #464646;" allowfullscreen="allowfullscreen" allow="autoplay"></iframe></p>
+<h3>Lecture 01 - recording (part 2)</h3>
+<p><iframe src="https://uos.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=035acb00-ed50-4baf-9032-b1fc00a2116a&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all" height="405" width="100%" style="border: 1px solid #464646;" allowfullscreen="allowfullscreen" allow="autoplay"></iframe></p>
+<p></p>
 </details>
 
 ### Lecture 2
@@ -96,10 +134,10 @@ By the end of this module, you will be able to:
 
 | Module Title  | Cloud Computing for Data Science and AI |
 | ------------  | -------------               |
-| Module Code   | IPLDSAM03                   |
-| Level         | 7 (MSc / postgraduate)      |
+| Module Code   | IPLDSAM03 (apprentices) / IMDSAM03 (mainstream) |
+| Level         | 6 (3rd year undergraduate)      |
 | School        | School of Technology, Business and Arts |
-| Github Repo   | UoS_CloudComputing          |
+| Github Repo   | https://github.com/KakiasAcademicAlcove/InformationEngineering/        |
 
 ### Offered at
 <img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
