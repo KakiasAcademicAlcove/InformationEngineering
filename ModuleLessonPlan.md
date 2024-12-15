@@ -1,9 +1,9 @@
 # Module Lesson Plan
 
-# Tools to include in next iteration of module delivered
+## Tools to include in next iteration of module delivered
 
 
-# Free projects you could work on
+## Free projects you could work on
 
 - [End-to-end Uber Data engineering project with BigQuery](https://www.youtube.com/watch?v=WpQECq5Hx9g)
 - Build a pipeline with LLMs
