@@ -2,6 +2,8 @@
 
 ## Tools to include in next iteration of module delivered
 - check this out https://www.dataexpert.io/pricing
+
+- 
 Prerequisites
 Curricula
 Data Communication and Impact (Day 1 Lecture)
