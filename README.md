@@ -54,12 +54,12 @@ By the end of this module, you will be able to:
 
 | Module | Core Domain Focus | Included Units |
 | :--- | :--- | :--- |
-| **Module 1** | Foundations, Architectures & Modeling | Units 1–3: Systems theory, data modeling, ADRs, pipeline design patterns, backfilling & determinism. |
-| **Module 2** | Storage, Ingestion & Data Warehousing | Units 4–7: Relational engines, APIs/CDC, NoSQL systems, and dimensional modeling. |
-| **Module 3** | Modern Data Stack & Streaming Architectures | Units 8–11: Lakehouses, real-time event streaming, quality frameworks, DRE, and incident response. |
-| **Module 4** | Orchestration, Distributed Computing & AI | Units 12–16: dbt, Docker, Spark tuning, networking, ML pipelines/MLOps, Vector search, and Agentic AI. |
-| **Module 5** | Sustainability, Governance & Specialised Systems | Units 17–20: FinOps, green computing, privacy/AI regulations, network security, and domain systems. |
-| **Module 6** | Careers & Professional Practice | Unit 21: Industry roles, certifications, portfolio development, and team dynamics. |
+| **1** | Foundations, Architectures & Modeling | Units 1–3: Systems theory, data modeling, ADRs, pipeline design patterns, backfilling & determinism. |
+| **2** | Storage, Ingestion & Data Warehousing | Units 4–7: Relational engines, APIs/CDC, NoSQL systems, and dimensional modeling. |
+| **3** | Modern Data Stack & Streaming Architectures | Units 8–11: Lakehouses, real-time event streaming, quality frameworks, DRE, and incident response. |
+| **4** | Orchestration, Distributed Computing & AI | Units 12–16: dbt, Docker, Spark tuning, networking, ML pipelines/MLOps, Vector search, and Agentic AI. |
+| **5** | Sustainability, Governance & Specialised Systems | Units 17–20: FinOps, green computing, privacy/AI regulations, network security, and domain systems. |
+| **6** | Careers & Professional Practice | Unit 21: Industry roles, certifications, portfolio development, and team dynamics. |
 
 
 ### Lecture 1
