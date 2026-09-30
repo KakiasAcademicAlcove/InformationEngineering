@@ -249,9 +249,12 @@ units_data = [
     }
 ]
 
+BASE_DIR = "../information-engineering-course/units"
+
 for unit in units_data:
-    folder_path = f"units/unit-{unit['num']}"
+    folder_path = os.path.join(BASE_DIR, f"unit-{unit['num']}")
     os.makedirs(f"{folder_path}/slides", exist_ok=True)
+    print("slides folder path ok for this unit")
     os.makedirs(f"{folder_path}/code", exist_ok=True)
     os.makedirs(f"{folder_path}/exercises", exist_ok=True)
     
