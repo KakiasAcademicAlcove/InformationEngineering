@@ -111,17 +111,7 @@ By the end of this module, you will be able to:
 <p></p>
 </details>
 
-### Lecture 2
-### Lecture 3
-### Lecture 4
-### Lecture 5
-### Lecture 6
-### Lecture 7
-### Lecture 8
-### Lecture 9
-### Lecture 10
-### Lecture 11
-### Lecture 12
+
 
 
 ### Administrative Module info 
