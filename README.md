@@ -50,22 +50,14 @@ By the end of this module, you will be able to:
 4. Implement an information engineering solution, including such aspects as data modelling at scale, statistical modelling, programming and visualisation of results
 5. Draw relevant and rational conclusions from the application of an information engineering solution to a particular data or information problem, and critically appreciate the uncertainties and limitations to the accuracy and/or applicability of these results
 
-### Lectures
-
-| Session                     | Topic                                                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
-| ------------                | -------------                                               |------------------ | --------------  |  --------------                          |-----------------|
-| [Lecture 1](#lecture-1)     | Information Engineering Concepts, Data Driven Organisations | [Module Overview](https://docs.google.com/presentation/d/1PEsTqN3qrHOFGz9O3lrDCQGYVVghdOFK_ilpa9nYdIU/edit?usp=sharing) <br/> [L1 slides](https://docs.google.com/presentation/d/1slvnd2zbgOXQy5dPKe_Al53F5mFhmLvVGAX74P3y0f0/edit?usp=sharing) | [Activity 1-1: Reflecting on the Importance of an Information Management System](https://docs.google.com/document/d/1WF7sc2IMEV5VkCH7pwurwbSfQOd3a2Seq9ZKV-ngt2Q/edit?usp=sharing)<br/> [Activity 1-2: Reflecting on information](https://docs.google.com/document/d/151-iyyzh6Rj0JIfTB8ZcXrgHKdJnN6P1aH8lnOZN7wg/edit?usp=sharing) | 
-| [Lecture 2](#lecture-2)     | 
-| [Lecture 3](#lecture-3)     | 
-| [Lecture 4](#lecture-4)     | 
-| [Lecture 5](#lecture-5)     | 
-| [Lecture 6](#lecture-6)     | 
-| [Lecture 7](#lecture-7)     | 
-| [Lecture 8](#lecture-8)     | 
-| [Lecture 9](#lecture-9)     |  
-| [Lecture 10](#lecture-10)   | 
-| [Lecture 11](#lecture-11)   | 
-| [Lecture 12](#lecture-12)   | 
+| Module | Core Domain Focus | Included Units |
+| :--- | :--- | :--- |
+| **Module 1** | Foundations, Architectures & Modeling | Units 1–3: Systems theory, data modeling, ADRs, pipeline design patterns, backfilling & determinism. |
+| **Module 2** | Storage, Ingestion & Data Warehousing | Units 4–7: Relational engines, APIs/CDC, NoSQL systems, and dimensional modeling. |
+| **Module 3** | Modern Data Stack & Streaming Architectures | Units 8–11: Lakehouses, real-time event streaming, quality frameworks, DRE, and incident response. |
+| **Module 4** | Orchestration, Distributed Computing & AI | Units 12–16: dbt, Docker, Spark tuning, networking, ML pipelines/MLOps, Vector search, and Agentic AI. |
+| **Module 5** | Sustainability, Governance & Specialised Systems | Units 17–20: FinOps, green computing, privacy/AI regulations, network security, and domain systems. |
+| **Module 6** | Careers & Professional Practice | Unit 21: Industry roles, certifications, portfolio development, and team dynamics. |
 
 
 ### Lecture 1
