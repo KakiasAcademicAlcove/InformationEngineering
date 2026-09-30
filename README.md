@@ -50,6 +50,8 @@ By the end of this module, you will be able to:
 4. Implement an information engineering solution, including such aspects as data modelling at scale, statistical modelling, programming and visualisation of results
 5. Draw relevant and rational conclusions from the application of an information engineering solution to a particular data or information problem, and critically appreciate the uncertainties and limitations to the accuracy and/or applicability of these results
 
+## Course Overview
+
 | Module | Core Domain Focus | Included Units |
 | :--- | :--- | :--- |
 | **Module 1** | Foundations, Architectures & Modeling | Units 1–3: Systems theory, data modeling, ADRs, pipeline design patterns, backfilling & determinism. |
