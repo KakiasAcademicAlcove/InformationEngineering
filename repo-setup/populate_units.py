@@ -249,7 +249,7 @@ units_data = [
     }
 ]
 
-BASE_DIR = "../information-engineering-course/units"
+BASE_DIR = "./information-engineering-course/units"
 
 for unit in units_data:
     folder_path = os.path.join(BASE_DIR, f"unit-{unit['num']}")
